@@ -1,4 +1,4 @@
-
+DROP TABLE  IF EXISTS  accounts_mp;
 CREATE TABLE accounts_mp
 (   
   user_id SERIAL PRIMARY KEY,   
